@@ -308,3 +308,7 @@ li:nth-of-type(1) {
     padding-top: 10px;
     margin-bottom: 15px;
 }
+
+h4 {
+  margin: auto;
+}
